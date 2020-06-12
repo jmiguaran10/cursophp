@@ -1,2 +1,1 @@
-# cursophp
-Curso de php
+# curso-introduccion-php
